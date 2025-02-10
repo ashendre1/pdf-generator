@@ -1,7 +1,5 @@
 # pdf-generator
 
-# pdf-generator-for-students
-
 Instructions:
 
 a) pip install dash pandas plotly pdfkit base64 dash-table kaleido
