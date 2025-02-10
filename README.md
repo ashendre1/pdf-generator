@@ -23,6 +23,6 @@ change path to wkhtmltopdf.exe
 
 and you are good to go
 
-run python base.py on cmd after going to the directory and server should open on http://127.0.0.1:8050/
+run 'python base.py' on cmd after going to the directory and server should open on http://127.0.0.1:8050/
 
 download files one by one
